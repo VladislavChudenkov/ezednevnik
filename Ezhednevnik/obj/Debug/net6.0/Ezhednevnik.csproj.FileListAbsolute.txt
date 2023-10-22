@@ -1,0 +1,14 @@
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\bin\Debug\net6.0\Ezhednevnik.exe
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\bin\Debug\net6.0\Ezhednevnik.deps.json
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\bin\Debug\net6.0\Ezhednevnik.runtimeconfig.json
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\bin\Debug\net6.0\Ezhednevnik.dll
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\bin\Debug\net6.0\Ezhednevnik.pdb
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.AssemblyInfoInputs.cache
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.AssemblyInfo.cs
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.csproj.CoreCompileInputs.cache
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.dll
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\refint\Ezhednevnik.dll
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.pdb
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.genruntimeconfig.cache
+C:\Users\98669\Documents\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\ref\Ezhednevnik.dll
